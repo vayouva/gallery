@@ -1,0 +1,78 @@
+var jsonData = [
+    {
+      "folderName": "images/",
+      "galleryName": {
+        "title": "Ma galerie photo avec Javascript",
+        "style": "text-align: center; font-weight: bold; font-style: italic"
+      },
+    },
+    {
+      "alt": "photo1",
+      "filename": "photo1.jpg", 
+      "title": "Western part of the abandoned Packard Automotive Plant in Detroit, Michigan.", 
+      
+    }, 
+    {
+      "alt": "photo2",
+      "filename": "photo2.jpg", 
+      "title": "View of downtown Montreal, Quebec, from Mont Royal. The Saint-Laurent river is seen in the background."
+    }, 
+    {
+      "alt": "photo3",
+      "filename": "photo3.jpg",
+      "title": "Moonshine over White Sands National Monument, New Mexico. The area is in the mountain-ringed Tularosa Basin and comprises the southern part of a 710-km² field of white sand dunes composed of gypsum crystals.", 
+    }, 
+    {
+      "alt": "photo4",
+      "filename": "photo4.jpg",
+      "title": "The Googleplex is the corporate headquarters complex of Google, Inc., located at 1600 Amphitheatre Parkway in Mountain View, Santa Clara County, California, United States, near San Jose.", 
+    }, 
+    {
+      "alt": "photo5",
+      "filename": "photo5.jpg",
+      "title": "The Ray and Maria Stata Center or Building 32 is an academic complex designed by Pritzker Prize-winning architect Frank Gehry for the Massachusetts Institute of Technology (MIT). Contained within the building are the Computer Science and Artificial Intelligence Laboratory, the Laboratory for Information and Decision Systems, as well as the Department of Linguistics and Philosophy. Academic celebrities such as Noam Chomsky and Ron Rivest have offices there. World Wide Web Consortium founder Tim Berners-Lee and free software movement founder Richard Stallman also have offices within." 
+    }, 
+    {
+      "alt": "photo6",
+      "filename": "photo6.jpg",
+      "title": "The view of Yosemite Valley from Tunnel View in Yosemite National Park, California, United States."
+    }, 
+    {
+      "alt": "photo7",
+      "filename": "photo7.jpg",
+      "title": "The Lincoln Memorial is an American national monument built to honor the 16th President of the United States, Abraham Lincoln. It is located on the National Mall in Washington, D.C. across from the Washington Monument. The architect was Henry Bacon, the sculptor of the primary statue – Abraham Lincoln, 1920 – was Daniel Chester French, and the painter of the interior murals was Jules Guerin. Dedicated in 1922, it is one of several monuments built to honor an American president."
+    }, 
+    {
+      "alt": "photo8",
+      "filename": "photo8.jpg",
+      "title": "oshua Tree National Park is located in southeastern California. Declared a U.S. National Park in 1994 when the U.S. Congress passed the California Desert Protection Act . It is named for the Joshua tree (Yucca brevifolia) forests native to the park. The park includes parts of two deserts, each an ecosystem whose characteristics are determined primarily by elevation: the higher Mojave Desert and lower Colorado Desert. The Little San Bernardino Mountains run through the southwest edge of the park."
+    }, 
+    {
+      "alt": "photo9",
+      "filename": "photo9.jpg",
+      "title": "Snow covers the top of the South Rim at Grand Canyon National Park." 
+    }, 
+    {
+      "alt": "photo10",
+      "filename": "photo10.jpg",
+      "title": "The Apple Campus is the corporate headquarters of Apple Inc., located at 1 Infinite Loop in Cupertino, California, United States. Its design resembles that of a university, with the buildings arranged around green spaces, similar to a suburban business park." 
+    }, 
+    {
+      "alt": "photo11",
+      "filename": "photo11.jpg",
+      "title": "Dallas was founded in 1841 and formally incorporated as a city in February 1856. The city&#39;s economy is primarily based on banking, commerce, telecommunications, computer technology, energy, healthcare and medical research, transportation and logistics. The city is home to the third largest concentration of Fortune 500 companies in the nation. Located in North Texas, Dallas is the main core of the largest inland metropolitan area in the United States that lacks any navigable link to the sea." 
+    }, 
+    {
+      "alt": "photo12",
+      "filename": "photo12.jpg",
+      "title": "The Chicago Harbor Lighthouse is an automated active lighthouse, and stands at the end of the northern breakwater protecting the Chicago Harbor, to the east of Navy Pier and the mouth of the Chicago River. It was constructed in 1893 for the World&#39;s Columbian Exposition and moved to its present site in 1919."
+    },
+    {
+      "height": 150, 
+      "width": 200,
+      "height_mini": 100, 
+      "width_mini": 100,
+      "style": "margin: 0 2px;",
+      "class":"gallery"
+    }, 
+];
